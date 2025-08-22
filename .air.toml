@@ -1,0 +1,4 @@
+root = "."
+cmd = "go run ./cmd/api"
+include_dir = ["cmd", "internal", "pkg"]
+exclude_dir = ["bin", "vendor"]
